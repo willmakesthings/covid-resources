@@ -4,7 +4,7 @@
  <title>COVID Resources for RIT Students</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-25T12:28:18-06:00</updated>
+ <updated>2020-07-26T17:45:09-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>A List of Health and Safety Resources for RIT Students</title>
-   <link href="http://localhost:4000/2020/04/01/RIT-Resources/"/>
-   <updated>2020-04-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2020/04/01/RIT-Resources</id>
+   <title></title>
+   <link href="http://localhost:4000/2020/07/26/2020-04-01-RIT-Resources/"/>
+   <updated>2020-07-26T17:45:09-04:00</updated>
+   <id>http://localhost:4000/2020/07/26/2020-04-01-RIT-Resources</id>
    <content type="html">&lt;p&gt;*For any updates, corrections, or additions please reach out to &lt;a href=&quot;mailto:janebrennan115@gmail.com&quot;&gt;janebrennan115@gmail.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;things-to-do-before-returning-to-campus&quot;&gt;Things to Do Before Returning to Campus&lt;/h3&gt;
@@ -78,8 +78,8 @@
 &lt;h3 id=&quot;faqs&quot;&gt;FAQs&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;How far away until a vaccine?&lt;/li&gt;
-  &lt;li&gt;How long does Coronavirus live on surfaces?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amp.theatlantic.com/amp/article/614566/&quot;&gt;How long until a vaccine?&lt;/a&gt; (&lt;a href=&quot;https://www.cnbc.com/amp/2020/07/24/dr-fauci-says-coronavirus-vaccine-likely-wont-be-widely-available-until-months-into-2021.html&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;https://www.webmd.com/lung/covid-19-vaccine&quot;&gt;2&lt;/a&gt; &lt;a href=&quot;https://www.bbc.com/news/amp/health-51665497&quot;&gt;3&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nih.gov/news-events/nih-research-matters/study-suggests-new-coronavirus-may-remain-surfaces-days&quot;&gt;How long does Coronavirus live on surfaces?&lt;/a&gt; (&lt;a href=&quot;https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html&quot;&gt;1&lt;/a&gt; &lt;a href=&quot;https://www.webmd.com/lung/how-long-covid-19-lives-on-surfaces&quot;&gt;2&lt;/a&gt; &lt;a href=&quot;https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center&quot;&gt;3&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>

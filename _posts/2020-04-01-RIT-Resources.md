@@ -1,5 +1,5 @@
 ---
-layout: page
+ [2020-04-01-RIT-Resources.md](2020-04-01-RIT-Resources.md) layout: page
 title: A List of Health and Safety Resources for RIT Students
 ---
 
@@ -51,8 +51,8 @@ title: A List of Health and Safety Resources for RIT Students
 
 ### FAQs
 
-- How far away until a vaccine?
-- How long does Coronavirus live on surfaces?
+- [How long until a vaccine?](https://amp.theatlantic.com/amp/article/614566/) ([1](https://www.cnbc.com/amp/2020/07/24/dr-fauci-says-coronavirus-vaccine-likely-wont-be-widely-available-until-months-into-2021.html) [2](https://www.webmd.com/lung/covid-19-vaccine) [3](https://www.bbc.com/news/amp/health-51665497)) 
+- [How long does Coronavirus live on surfaces?](https://www.nih.gov/news-events/nih-research-matters/study-suggests-new-coronavirus-may-remain-surfaces-days) ([1](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html) [2](https://www.webmd.com/lung/how-long-covid-19-lives-on-surfaces) [3](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center))
 
 
 
