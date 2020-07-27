@@ -5,7 +5,7 @@ title: A List of Health and Safety Resources for RIT Students
 
 # A List of Health and Safety Resources for RIT Students #
 
-*For any updates, corrections, or additions please reach out to* [janebrennan115@gmail.com](mailto:janebrennan115@gmail.com)
+*For any updates, corrections, or additions please reach out to* [ritstudentcovidsources@gmail.com](mailto:ritstudentcovidsources@gmail.com)
 
 <br>
 
