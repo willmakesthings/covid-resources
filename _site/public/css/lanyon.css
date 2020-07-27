@@ -33,6 +33,9 @@
  *
  * Update the foundational and global aspects of the page.
  */
+ 
+
+
 
 /* Prevent scroll on narrow devices */
 html,
@@ -42,6 +45,8 @@ body {
 
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,6 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   letter-spacing: -.025rem;
 }
+
 
 
 /*
